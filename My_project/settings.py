@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-_hm3=$93*=z_y=!vl#@x57$0ak3uia%*l1l%c1t%g7w(zh%u9)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_CORS_ORIGIN = True
+ALLOWED_HOSTS_ORIGIN = True
 
 CORS_ALLOW_ALL_ORIGINS = True 
 # Application definition
